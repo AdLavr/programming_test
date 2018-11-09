@@ -1,0 +1,10 @@
+RUN_SERVER_COMMAND = 'systemctl start postgresql'
+STOP_SERVER_COMMAND = 'systemctl stop postgresql'
+
+DATABASE_NAME = 'testdb'
+SCHEMA_NAME = 'scraper'
+TABLE_NAME = 'records'
+URL = 'localhost'
+PORT = '5432'
+USER_LOGIN = 'testuser'
+USER_PASSWORD = 'testpass'

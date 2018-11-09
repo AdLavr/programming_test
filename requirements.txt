@@ -1,0 +1,5 @@
+python-dateutil
+feedparser
+beautifulsoup4
+py-postgresql
+pymongo
